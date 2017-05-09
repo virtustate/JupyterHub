@@ -135,7 +135,7 @@
 #c.JupyterHub.hub_port = 8081
 
 ## The public facing ip of the whole application (the proxy)
-c.JupyterHub.ip = '192.168.0.42'
+#c.JupyterHub.ip = '127.0.0.1'
 
 ## Supply extra arguments that will be passed to Jinja environment.
 #c.JupyterHub.jinja_environment_options = {}
