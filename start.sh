@@ -1,7 +1,7 @@
 #!/bin/bash
 touch /root/started
 
-pt-get update -q -y
+apt-get update -q -y
 apt-get upgrade -q -y
 apt-get install -q -y sysstat nano
 
