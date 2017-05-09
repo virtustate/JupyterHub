@@ -1,4 +1,4 @@
 #!/bin/sh
-PATH=$PATH:/opt/anaconda3/bin
+PATH=$PATH:/opt/conda/bin
 export PATH
 jupyterhub
